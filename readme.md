@@ -16,11 +16,11 @@ This picture shows how the edge detection algorithm is identify the gradient cha
 ## Some more examples:
 urban area:
 
-![](urban.png)
+<img src="urban.PNG"/>
 
 rural area:
 
-![](rural.png)
+<img src="rural.PNG"/>
 
 
 This is still in development and more improvement is needed. Feel free to fork your own copy and contribute to this project.
