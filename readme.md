@@ -22,6 +22,5 @@ rural area:
 
 <img src="rural.PNG"/>
 
-
 This is still in development and more improvement is needed. Feel free to fork your own copy and contribute to this project.
 
