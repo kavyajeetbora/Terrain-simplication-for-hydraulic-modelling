@@ -11,16 +11,16 @@ This repo contains code for generating simplified digital terrain model that can
 
 This picture shows how the edge detection algorithm is identify the gradient changes:
 
-![](demo.gif)
+![](https://user-images.githubusercontent.com/38955297/191927777-fac4eb40-570e-40e7-a423-57a53a43582a.gif)
 
 ## Some more examples:
 urban area:
 
-<img src="urban.PNG"/>
+<img src="https://user-images.githubusercontent.com/38955297/191927839-d96e943e-ce2e-491a-835a-b82de839e07f.PNG" width=600/>
 
 rural area:
 
-<img src="rural.PNG"/>
+<img src="https://user-images.githubusercontent.com/38955297/191927986-f5c95d20-723f-433b-8d82-c243ca5a7c63.PNG" width=600/>
 
 This is still in development and more improvement is needed. Feel free to fork your own copy and contribute to this project.
 
